@@ -1,0 +1,1 @@
+As an Admin , I want to manage crop price data so that buyers and farmers can have current/updated market information

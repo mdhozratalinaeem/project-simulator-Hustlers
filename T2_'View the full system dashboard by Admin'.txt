@@ -1,0 +1,1 @@
+As an Admin , I want to view full system dashboard so that I can monitor all platform activity and performance
