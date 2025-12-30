@@ -1,0 +1,1 @@
+As an Admin , I want to add a new user (Farmer/Buyer/Expert/Manager) so that new users can access the system with appropriate permissions
